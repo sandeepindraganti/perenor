@@ -544,7 +544,7 @@ export default function PerenorHomepage() {
           </div>
 
           <div className="flex flex-col gap-3 sm:flex-row lg:flex-col">
-            <LinkButton href="mailto:hello@perenor.com" size="lg">Contact Perenor</LinkButton>
+            <LinkButton href="mailto:sales@perenor.com" size="lg">Contact Perenor</LinkButton>
             <LinkButton href="#contact" size="lg" variant="outline">Download company profile</LinkButton>
           </div>
         </div>
