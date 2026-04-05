@@ -12,7 +12,7 @@ import {
   Network,
 } from "lucide-react";
 
-const logoSrc = "/perenor-logo.png";
+const logoSrc = "/perenorlogo.jpg";
 
 const services = [
   {
@@ -294,11 +294,11 @@ export default function PerenorHomepage() {
             className="relative"
           >
             <div className="mb-8 inline-flex items-center rounded-full border border-white/10 bg-white/[0.03] px-4 py-2 text-[11px] font-semibold uppercase tracking-[0.24em] text-slate-300 backdrop-blur-md">
-              AWS · IT · SONiC · Observability
+              AWS · IT · SONiC · Products . Software Services
             </div>
 
-            <h1 className="max-w-5xl text-5xl font-bold leading-[0.95] tracking-[-0.04em] text-white sm:text-6xl lg:text-7xl xl:text-[5.5rem]">
-              Engineering cloud, networking, and software systems at scale.
+            <h1 className="max-w-5xl text-5xl font-bold leading-[0.95] tracking-[-0.04em] text-white sm:text-6xl lg:text-7xl xl:text-[4.5rem]">
+              Engineering cloud, networking, and software services at scale.
             </h1>
 
             <h2 className="mt-7 max-w-3xl text-xl font-medium leading-8 text-slate-300 sm:text-2xl sm:leading-9">
@@ -599,4 +599,3 @@ export default function PerenorHomepage() {
     </main>
   );
 }
-
