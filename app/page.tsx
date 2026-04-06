@@ -12,7 +12,7 @@ import {
   Network,
 } from "lucide-react";
 
-const logoSrc = "/perenorlogo.jpg";
+const logoSrc = "/perenor-logo.jpg";
 
 const services = [
   {
