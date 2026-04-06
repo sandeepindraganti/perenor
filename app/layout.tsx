@@ -3,7 +3,7 @@ import "./globals.css";
 
 const siteUrl = "https://perenor.com";
 const siteName = "Perenor";
-const title = "Perenor";
+const title = "Perenor | AWS, SONiC Networking & Observability Engineering";
 const description =
   "Perenor delivers AWS services, enterprise IT systems, SONiC-based network services, and products that improve observability and network performance.";
 
